@@ -41,17 +41,10 @@
     "react-dom": "$react-dom"
   },
   "devDependencies": {
-    "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "eslint": "^9",
-    "eslint-config-next": "15.4.7",
-    "eslint-config-prettier": "^10.1.8",
-    "eslint-config-standard": "^17.1.0",
-    "eslint-plugin-tailwindcss": "^3.18.2",
-    "prettier": "^3.6.2",
     "tailwindcss": "^4",
     "tailwindcss-animate": "^1.0.7",
     "tw-animate-css": "^1.3.7",
